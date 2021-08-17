@@ -7,7 +7,28 @@ const emojiDictionary = {
   "😔": "sad",
   "🥡": "takeout box",
   "❤️": "love",
-  "😑": "annoyance"
+  "😑": "annoyance",
+  "🤑": "Money-Mouth Face",
+  "🤗 ": "Hugging Face",
+  "🤭 ": "Face with Hand Over Mouth",
+  "🤫 ": "Thinking Face",
+  "🤐": "Zipper-Mouth Face",
+  "🤨 ": "Face with Raised Eyebrow",
+  "😐": " Neutral Face",
+  "😑": "Expressionless Face",
+  "😶": "Face Without Mouth",
+  "😶‍🌫️ ": "Face in Clouds",
+  "😏": "Smirking Face",
+  "😒": "Unamused Face",
+  "🙄": "Face with Rolling Eyes",
+  "😬": "Grimacing Face",
+  "😮‍💨": "Face Exhaling",
+  "🤥": " Lying Face",
+  "😌": "Relieved Face",
+  "😔": "Pensive Face",
+  "😪": " Sleepy Face",
+  "🤤": "Drooling Face",
+  "😴": " Sleeping Face"
 };
 
 var heading = "Emoji Meter";

@@ -59,7 +59,13 @@ export default function App() {
     <div className="App">
       <h1 className="styleheading"> {heading} </h1>
       <div>
-        <img border="0" src="funart.png" alt="Emoji Inc. logo" />
+        <img
+          width="300px"
+          height="auto"
+          border="0"
+          src="funart.png"
+          alt="Emoji Inc. logo"
+        />
       </div>
       <input className="inputstyle " onChange={changeHandler} value={emoji} />
       <h2 className="outputstyle"> {emoji} </h2>

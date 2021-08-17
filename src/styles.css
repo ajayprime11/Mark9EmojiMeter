@@ -1,0 +1,22 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.App .styleheading {
+  background-color: greenyellow;
+  font-family: cursive;
+}
+.App .inputstyle {
+  border-radius: 25px;
+  border: 2px solid #73ad21;
+  padding: 20px;
+  width: 300px;
+  height: 50px;
+}
+
+image {
+  text-decoration: none;
+  color: inherit;
+  width: 100%;
+  height: auto;
+}
